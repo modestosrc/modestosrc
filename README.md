@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/97/f9/0f/97f90fd1e4c17346a8e5d28d0825356b.jpg"  />
-</div>
-
-###
-
 <p align="left"></p>
 
 ###
