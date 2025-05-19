@@ -47,8 +47,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ocaml" height="40" alt="ocaml logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
